@@ -19,3 +19,5 @@ int main()
         printf("\nmean of the array elements= %f",mean);
     return 0;
 }
+
+//ok
